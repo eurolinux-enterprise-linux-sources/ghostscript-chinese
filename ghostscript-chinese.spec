@@ -9,7 +9,7 @@ ghostscript font configuration files for Chinese fonts.
 
 Name:           ghostscript-chinese
 Version:        0.4.0
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Common files for ghostscript-chinese
 Group:          User Interface/X
 License:        GPLv2+
@@ -86,6 +86,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.4.0-4
+- Mass rebuild 2013-12-27
+
 * Tue Mar 19 2013 Peng Wu <pwu@redhat.com> - 0.4.0-3
 - Fixes summary
 
